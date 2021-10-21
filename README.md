@@ -2,6 +2,7 @@
 
 Watch the following youtube tutorial to setup the bot. https://youtu.be/Vvf0itXQdws
 
+If there's nothing in `.env` file, you can create an .env file and add these option:
 ```js
 modlogs=
 modrole=
