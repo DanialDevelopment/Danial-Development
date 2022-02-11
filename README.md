@@ -11,4 +11,4 @@ groupId=
 rankinglogs=
 ```
 
-If you have any questions or want to report bugs, feel free to join our [Support Server (Roblox Related)](https://discord.gg/AjnUcEQ5CY).
+If you have any questions or want to report bugs, feel free to join our [Support Server (Roblox Related)](https://discord.gg/fqXkmKKjGD).
